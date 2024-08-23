@@ -44,10 +44,6 @@ coverage/
 *.swp
 *.swo
 
-# Docker ignore
-.dockerignore
-docker-compose.yml
-
 # Debug
 debug/
 
