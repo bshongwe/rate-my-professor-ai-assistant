@@ -18,11 +18,12 @@ const OpenSource = async () => {
         <section className="container py-24 sm:py-32">
             <div className="flex flex-col items-center gap-4">
                 <h2 className="text-3xl md:text-4xl font-bold text-center mb-2">
-                    Fully
+                    Rate My
                     <span className="bg-gradient-to-b from-primary/60 to-primary text-transparent bg-clip-text">
                         {" "}
-                        Open Source{" "}
+                        Professor AI{" "}
                     </span>
+                    Assistant
                 </h2>
                 <Link
                     href="https://github.com/bshongwe/rate-my-professor-ai-assistant"
