@@ -2,12 +2,24 @@
 
 import { Button } from "./ui/button";
 import { Input } from "./ui/input";
+import { ToastContainer, toast } from "react-toastify";
+import 'react-toastify/dist/ReactToastify.css';
 
 const Newsletter = () => {
     const handleSubmit = (e: any) => {
         e.preventDefault();
-        console.log("Subscribed!");
-    };
+    toast.success("Subscribed successfully!", {
+        position: "top-center",
+        autoClose: 3000, // The notification will close after 3 seconds
+        hideProgressBar: true,
+        closeOnClick: true,
+        pauseOnHover: false,
+        draggable: true,
+        progress: undefined,
+    });
+    // Additional logic for form submission (e.g., API call) can go here
+    console.log("Subscribed!");
+};
 
     return (
         <section id="newsletter">
@@ -38,6 +50,8 @@ const Newsletter = () => {
                     <Button>Subscribe</Button>
                 </form>
             </div>
+
+            <ToastContainer /> {/* This is where the toasts will appear */}
 
             <hr className="w-11/12 mx-auto" />
         </section>

@@ -97,15 +97,15 @@ const Team = () => {
 
     return (
         <section id="team" className="container py-24 sm:py-32">
-            <h2 className="text-3xl md:text-4xl font-bold">Rate My 
+            <h2 className="text-3xl md:text-4xl font-bold">
                 <span className="bg-gradient-to-b from-primary/60 to-primary text-transparent bg-clip-text">
-                    Professor AI{" "}
+                    Rate My Professor{" "}
                 </span>
-                Assistant
+                AI Assistant
             </h2>
 
             <p className="mt-4 mb-10 text-xl text-muted-foreground">
-                Development team
+                <i>Development team</i>
             </p>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8 gap-y-10">
