@@ -6,7 +6,7 @@ import { Icons } from "./Icons";
 
 const OpenSource = async () => {
     const { stargazers_count: stars } = await fetch(
-        "https://api.github.com/repos/chrisstef/saas-marketing-template",
+        "https://api.github.com/repos/bshongwe/rate-my-professor-ai-assistant",
         {
             next: { revalidate: 60 },
         }
@@ -25,7 +25,7 @@ const OpenSource = async () => {
                     </span>
                 </h2>
                 <Link
-                    href="https://github.com/chrisstef/saas-marketing-template"
+                    href="https://github.com/bshongwe/rate-my-professor-ai-assistant"
                     target="_blank"
                     className={cn(
                         buttonVariants({ variant: "outline", size: "lg" })
