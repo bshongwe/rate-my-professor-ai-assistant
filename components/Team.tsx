@@ -39,11 +39,11 @@ const teamList: TeamProps[] = [
         ],
     },
     {
-        imageUrl: "https://i.pravatar.cc/150?img=60",
+        imageUrl: "https://media.licdn.com/dms/image/v2/D5603AQEAh49Veb_-vw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1691688973647?e=1730332800&v=beta&t=YqglArp38JsVHJFGwRUZCEQjUHMJFFAeu0w5YG5f5zc",
         name: "Salman Qurban",
         position: "Backend Developer",
         socialNetworks: [
-            { name: "Linkedin", url: "https://linkedin.com" },
+            { name: "Linkedin", url: "https://www.linkedin.com/in/salman-q-3u6/" },
             {
                 name: "Github",
                 url: "https://github.com/",
@@ -55,11 +55,11 @@ const teamList: TeamProps[] = [
         ],
     },
     {
-        imageUrl: "https://i.pravatar.cc/150?img=36",
+        imageUrl: "https://avatars.githubusercontent.com/u/126109055?v=4",
         name: "Ernest Shongwe",
         position: "Frontend Developer",
         socialNetworks: [
-            { name: "Linkedin", url: "https://linkedin.com" },
+            { name: "Linkedin", url: "https://www.linkedin.com/in/ernest-shongwe/" },
             {
                 name: "Github",
                 url: "https://github.com/bshongwe",
