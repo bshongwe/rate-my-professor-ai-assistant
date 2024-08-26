@@ -70,7 +70,7 @@ const FAQ = () => {
             <h3 className="font-medium mt-4">
                 Still have questions?{" "}
                 <a
-                    href="#"
+                    href="mailto:shongwe.bhekizwe@gmail.com"
                     className="text-primary border-primary border-b-2 hover:border-0"
                 >
                     Contact us
