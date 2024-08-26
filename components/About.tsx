@@ -23,11 +23,11 @@ const About = () => {
                                 tool for navigating the world of academia. Our
                                 app leverages advanced AI to analyze professor
                                 reviews, helping students make informed
-                                decisions about their courses. Whether you're
+                                decisions about their courses. Whether you are
                                 looking for detailed insights, recommendations,
                                 or just want to avoid a challenging professor,
                                 our AI assistant is here to guide you. Trusted
-                                by thousands of students, we're committed to
+                                by thousands of students, we are committed to
                                 making your academic journey smoother and more
                                 successful.
                             </p>

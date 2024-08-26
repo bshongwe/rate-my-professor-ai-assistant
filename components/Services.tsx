@@ -48,7 +48,7 @@ const Services = () => {
 
                     <p className="text-muted-foreground text-xl mt-4 mb-8 ">
                         Our commitment is to provide services that put our
-                        clients' needs first, ensuring a seamless and
+                        client needs first, ensuring a seamless and
                         productive experience.
                     </p>
 
