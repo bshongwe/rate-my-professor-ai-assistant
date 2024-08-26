@@ -23,11 +23,11 @@ interface SociaNetworkslProps {
 
 const teamList: TeamProps[] = [
     {
-        imageUrl: "https://i.pravatar.cc/150?img=35",
+        imageUrl: "https://media.licdn.com/dms/image/v2/D4D03AQHzZyxCao64vA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1687957091647?e=1730332800&v=beta&t=CIMK0Xix-eiNQUOunyfxlZjgpo0ZoIKK4f8q0pzdDoU",
         name: "Boniface Munga",
         position: "Tech Lead",
         socialNetworks: [
-            { name: "Linkedin", url: "https://linkedin.com" },
+            { name: "Linkedin", url: "https://www.linkedin.com/in/boniface-munga-software-engineer" },
             {
                 name: "Github",
                 url: "https://github.com/",
