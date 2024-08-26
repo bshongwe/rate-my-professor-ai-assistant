@@ -9,25 +9,25 @@ interface ServiceProps {
 
 const serviceList: ServiceProps[] = [
     {
-        title: "Vote Collaboration",
+        title: "Collaborative Voting",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
+            "Empower your team with collaborative voting tools that allow everyone to have a say in key decisions, fostering a sense of inclusion and teamwork.",
         icon: (
             <Icons.code className="h-6 w-6 dark:text-orange-500 text-blue-500" />
         ),
     },
     {
-        title: "Vote Management",
+        title: "Efficient Vote Management",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
+            "Streamline the voting process with our efficient vote management system, designed to handle everything from scheduling votes to tallying results with ease.",
         icon: (
             <Icons.dashboard className="h-6 w-6 dark:text-orange-500 text-blue-500" />
         ),
     },
     {
-        title: "Vote Automation",
+        title: "Automated Voting Solutions",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
+            "Save time and reduce manual effort with our automated voting solutions. Set up, manage, and execute votes automatically, ensuring accuracy and reliability.",
         icon: (
             <Icons.project className="h-6 w-6 dark:text-orange-500 text-blue-500" />
         ),
@@ -47,8 +47,9 @@ const Services = () => {
                     </h2>
 
                     <p className="text-muted-foreground text-xl mt-4 mb-8 ">
-                        Lorem ipsum dolor sit amet consectetur, adipisicing
-                        elit. Veritatis dolor.
+                        Our commitment is to provide services that put our
+                        clients' needs first, ensuring a seamless and
+                        productive experience.
                     </p>
 
                     <div className="flex flex-col gap-8">

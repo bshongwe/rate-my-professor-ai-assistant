@@ -60,10 +60,13 @@ const teamList: TeamProps[] = [
         position: "Frontend Developer",
         socialNetworks: [
             { name: "Linkedin", url: "https://linkedin.com" },
-
+            {
+                name: "Github",
+                url: "https://github.com/bshongwe",
+            },
             {
                 name: "Twitter",
-                url: "https://x.com/",
+                url: "https://x.com/ernest_b_shong",
             },
         ],
     },
@@ -76,6 +79,10 @@ const teamList: TeamProps[] = [
             {
                 name: "Github",
                 url: "https://github.com/",
+            },
+            {
+                name: "Twitter",
+                url: "https://x.com/",
             },
         ],
     },
@@ -136,8 +143,8 @@ const Team = () => {
 
                             <CardContent className="text-center pb-2">
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit.
+                                    We built an amazing product just for you.
+                                    Reach out to us... today!
                                 </p>
                             </CardContent>
 

@@ -33,7 +33,12 @@ const Newsletter = () => {
                     </span>
                 </h3>
                 <p className="text-xl text-muted-foreground text-center mt-4 mb-8">
-                    Lorem ipsum dolor sit amet consectetur.
+                    Stay ahead in your academic journey by subscribing to our
+                    daily newsletter. Get the latest professor reviews, course
+                    recommendations, and tips directly in your inbox. Be the
+                    first to know about new features, exclusive offers, and
+                    insights that can help you make the most out of your
+                    education. Join our community of informed students today.
                 </p>
 
                 <form

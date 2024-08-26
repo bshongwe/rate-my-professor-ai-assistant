@@ -14,9 +14,12 @@ const CTA = () => {
                         In One Interface
                     </h2>
                     <p className="text-muted-foreground text-xl mt-4 mb-8 lg:mb-0">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Eaque, beatae. Ipsa tempore ipsum iste quibusdam illum
-                        ducimus eos. Quasi, sed!
+                        Easily access and manage all your professor ratings,
+                        feedback, and course insights in one intuitive
+                        interface. Our streamlined design ensures that
+                        everything you need is just a click away, helping you
+                        stay organized and informed throughout your academic
+                        journey.
                     </p>
                 </div>
 

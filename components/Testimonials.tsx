@@ -72,8 +72,11 @@ const Testimonials = () => {
             </h2>
 
             <p className="text-xl text-muted-foreground pt-4 pb-8">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non
-                unde error facere hic reiciendis illo
+                Join thousands of satisfied students who trust our AI-powered
+                platform to guide their academic choices. From insightful
+                professor reviews to personalized course recommendations,
+                discover why Rate My Professor AI Assistant has become an
+                essential tool for making informed decisions in the classroom.
             </p>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-4 sm:block columns-2 lg:columns-3 lg:gap-6 mx-auto space-y-4 lg:space-y-6">

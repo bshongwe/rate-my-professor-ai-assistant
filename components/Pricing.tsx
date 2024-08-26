@@ -31,14 +31,14 @@ const pricingList: PricingProps[] = [
         popular: 0,
         price: 0,
         description:
-            "Lorem ipsum dolor sit, amet ipsum consectetur adipisicing elit.",
+            "Perfect for students looking to get started with basic features.",
         buttonText: "Get Started",
         benefitList: [
-            "Benefit 1",
-            "Benefit 2",
-            "Benefit 3",
-            "Priority support 1",
-            "Priority support 2",
+            "Access to basic professor ratings",
+            "Search and filter by course or professor",
+            "Limited access to AI-generated insights",
+            "Community support",
+            "Email notifications for new reviews",
         ],
     },
     {
@@ -46,14 +46,14 @@ const pricingList: PricingProps[] = [
         popular: 1,
         price: 5,
         description:
-            "Lorem ipsum dolor sit, amet ipsum consectetur adipisicing elit.",
+            "Ideal for students who want more detailed insights and additional features.",
         buttonText: "Start Free Trial",
         benefitList: [
-            "Benefit 1",
-            "Benefit 2",
-            "Benefit 3",
-            "Priority support 1",
-            "Priority support 2",
+            "Everything in Free, plus:",
+            "Advanced AI-powered professor insights",
+            "Personalized course recommendations",
+            "Unlimited access to review analytics",
+            "Early access to new features",
         ],
     },
     {
@@ -61,14 +61,14 @@ const pricingList: PricingProps[] = [
         popular: 0,
         price: 40,
         description:
-            "Lorem ipsum dolor sit, amet ipsum consectetur adipisicing elit.",
+            "Best for institutions or organizations looking for comprehensive access to all features.",
         buttonText: "Register with Us",
         benefitList: [
-            "Benefit 1",
-            "Benefit 2",
-            "Benefit 3",
-            "Priority support 1",
-            "Priority support 2",
+            "Everything in Premium, plus:",
+            "Multi-user access with team management",
+            "Detailed reporting and analytics",
+            "Custom AI model training for specific needs",
+            "24/7 priority support",
         ],
     },
 ];
@@ -85,8 +85,8 @@ const Pricing = () => {
                 Access
             </h2>
             <h3 className="text-xl text-center text-muted-foreground pt-4 pb-8">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias
-                reiciendis.
+                Choose the plan that best suits your needs and unlock the full
+                potential of Rate My Professor AI Assistant.
             </h3>
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
                 {pricingList.map((pricing: PricingProps) => (

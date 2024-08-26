@@ -17,19 +17,19 @@ const features: FeatureProps[] = [
     {
         title: "Responsive Design",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
+            "Enjoy a seamless experience across all devices with our fully responsive design, ensuring you can access our app anytime, anywhere.",
         image: "./growth.png",
     },
     {
         title: "Intuitive user interface",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
+            "Navigate with ease! Our user-friendly interface is designed for simplicity, allowing you to find what you need without any hassle.",
         image: "./reflecting.png",
     },
     {
         title: "AI-Powered insights",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
+            "Harness the power of AI to get personalized insights that help you choose the best professors and courses tailored to your academic needs.",
         image: "./looking-ahead.png",
     },
 ];

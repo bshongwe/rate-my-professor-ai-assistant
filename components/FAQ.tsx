@@ -14,29 +14,29 @@ interface FAQProps {
 const FAQList: FAQProps[] = [
     {
         question: "What is Rate My Professor AI Assistant all about?",
-        answer: "Blah, blah, blah, blah.",
+        answer: "Rate My Professor AI Assistant is a tool that uses AI to analyze and provide insights into professor reviews, helping students make informed decisions about their courses.",
         value: "item-1",
     },
     {
-        question: "Lorem ipsum dolor sit amet consectetur adipisicing elit?",
-        answer: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint labore quidem quam? Consectetur sapiente iste rerum reiciendis animi nihil nostrum sit quo, modi quod.",
+        question: "How do I create an account?",
+        answer: "You can create an account by clicking on the Sign Up button on our homepage and following the registration steps. You'll need an active email address or social media account to get started.",
         value: "item-2",
     },
     {
         question:
-            "Lorem ipsum dolor sit amet  Consectetur natus dolores minus quibusdam?",
-        answer: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore qui nostrum reiciendis veritatis necessitatibus maxime quis ipsa vitae cumque quo?",
+            "Is the basic version of the app free?",
+        answer: "Yes, our basic plan is free and includes access to essential features like professor ratings, course searches, and limited AI insights.",
         value: "item-3",
     },
     {
-        question: "Lorem ipsum dolor sit amet, consectetur adipisicing elit?",
-        answer: "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+        question: "What do I get with a Premium subscription?",
+        answer: "A Premium subscription offers advanced features such as unlimited access to AI-powered insights, personalized course recommendations, and priority support.",
         value: "item-4",
     },
     {
         question:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur natus?",
-        answer: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint labore quidem quam? Consectetur sapiente iste rerum reiciendis animi nihil nostrum sit quo, modi quod.",
+            "Can I cancel my subscription at any time?",
+        answer: "Yes, you can cancel your subscription at any time through your account settings. Your access to Premium features will remain until the end of your current billing cycle.",
         value: "item-5",
     },
 ];

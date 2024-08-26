@@ -14,7 +14,7 @@ const features: FeatureProps[] = [
         ),
         title: "Accesibility",
         description:
-            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum quas provident cum",
+            "Our app is designed to be user-friendly and accessible to everyone. Whether you're on a mobile device or a desktop, you'll have seamless access to professor ratings and course insights anytime, anywhere",
     },
     {
         icon: (
@@ -22,7 +22,7 @@ const features: FeatureProps[] = [
         ),
         title: "Community",
         description:
-            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum quas provident cum",
+            "Join a thriving community of students who share honest feedback about their professors. Engage with reviews, ask questions, and contribute your own experiences to help others make informed decisions",
     },
     {
         icon: (
@@ -30,7 +30,7 @@ const features: FeatureProps[] = [
         ),
         title: "Scalability",
         description:
-            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum quas provident cum",
+            "Rate My Professor AI Assistant grows with you. As our user base expands, our AI algorithms continuously improve, providing you with more accurate and personalized recommendations based on an ever-increasing pool of data",
     },
     {
         icon: (
@@ -38,7 +38,7 @@ const features: FeatureProps[] = [
         ),
         title: "Gamification",
         description:
-            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum quas provident cum",
+            "Learning is more fun with our gamified features! Earn badges, compete with peers, and stay motivated as you contribute reviews and interact with the community. Turn your academic journey into a rewarding experience",
     },
 ];
 
@@ -56,7 +56,7 @@ const HowWorks = () => {
                 Works
             </h2>
             <p className="md:w-3/4 mx-auto mt-4 mb-8 text-xl text-muted-foreground">
-                Explore app features here!
+                Explore the features that make our app a must-have for students!
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">

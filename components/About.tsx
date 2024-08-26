@@ -19,13 +19,17 @@ const About = () => {
                                 Rate My Professor AI Assistant
                             </h2>
                             <p className="text-xl text-muted-foreground mt-4">
-                                Lorem ipsum dolor sit amet, consectetur
-                                adipiscing elit, sed do eiusmod tempor
-                                incididunt ut labore et dolore magna aliqua. Ut
-                                enim ad minim veniam, quis nostrud exercitation
-                                ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Lorem ipsum dolor sit amet,
-                                consectetur adipiscing elit.
+                                Rate My Professor AI Assistant is your go-to
+                                tool for navigating the world of academia. Our
+                                app leverages advanced AI to analyze professor
+                                reviews, helping students make informed
+                                decisions about their courses. Whether you're
+                                looking for detailed insights, recommendations,
+                                or just want to avoid a challenging professor,
+                                our AI assistant is here to guide you. Trusted
+                                by thousands of students, we're committed to
+                                making your academic journey smoother and more
+                                successful.
                             </p>
                         </div>
 

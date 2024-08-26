@@ -120,8 +120,8 @@ export const HeroCards = () => {
                     </div>
 
                     <CardDescription>
-                        Lorem ipsum dolor sit, amet ipsum consectetur
-                        adipisicing elit.
+                        Choose the plan that best suits your needs and unlock
+                        the full potential of Rate My Professor AI Assistant.
                     </CardDescription>
                 </CardHeader>
 
@@ -156,8 +156,8 @@ export const HeroCards = () => {
                     <div>
                         <CardTitle>Rating ideas assistance</CardTitle>
                         <CardDescription className="text-md mt-2">
-                            Lorem ipsum dolor sit amet consect adipisicing elit.
-                            Consectetur natusm.
+                            Easily access and manage all your ratings,
+                            feedback and course insights. Ideas galore!
                         </CardDescription>
                     </div>
                 </CardHeader>
